@@ -17,17 +17,17 @@ See [Demo](https://www.google.com/)
 
 ### Installation
 
-'''shell
+```shell
 $ git clone {repo url}
 $ cd {reponame}
 $ pip install -r requrements.txt
-'''
+```
 
 
 ### How To Start
-'''shell
+```shell
 $ application.java
-'''
+```
 
 
 ### Dependency
